@@ -1,0 +1,6 @@
+com/qa/notes/Application.class
+com/qa/notes/persistence/model/Note.class
+com/qa/notes/service/NoteService.class
+com/qa/notes/persistence/repository/NoteRepository.class
+com/qa/notes/dto/NoteDto.class
+com/qa/notes/controller/NoteController.class

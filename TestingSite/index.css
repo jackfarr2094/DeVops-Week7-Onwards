@@ -1,0 +1,19 @@
+#qaLogo {
+    margin: auto;
+    width: 400px;
+  }
+
+  h1 {
+    font-family: sans-serif;
+    font-size: 60px;
+  }
+
+  img {
+    position: inherit;
+    width: 100%;
+  }
+
+  #quote {
+    text-align: center;
+    position: relative;
+  }

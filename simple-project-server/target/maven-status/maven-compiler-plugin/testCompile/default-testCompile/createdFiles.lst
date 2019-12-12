@@ -1,0 +1,16 @@
+com/qa/notes/e2e/homepage/HomePageUpdateTest.class
+com/qa/notes/integration/IntegrationSuite.class
+com/qa/notes/junit/service/NoteServiceTest.class
+com/qa/notes/junit/ControllerAndServiceSuite.class
+com/qa/notes/e2e/homepage/HomePagePOM.class
+com/qa/notes/integration/DeleteIT$2.class
+com/qa/notes/e2e/SeleniumSuite.class
+com/qa/notes/integration/GetIT.class
+com/qa/notes/junit/controller/NoteControllerTest.class
+com/qa/notes/integration/PostIT.class
+com/qa/notes/integration/DeleteIT$1.class
+com/qa/notes/integration/DeleteIT.class
+com/qa/notes/integration/GetIT$1.class
+com/qa/notes/e2e/SeleniumConst.class
+com/qa/notes/e2e/homepage/HomePageDeleteTest.class
+com/qa/notes/e2e/homepage/HomePageCreateTest.class

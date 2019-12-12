@@ -1,0 +1,13 @@
+/home/user/Desktop/simple-project-server/src/test/java/com/qa/notes/junit/service/NoteServiceTest.java
+/home/user/Desktop/simple-project-server/src/test/java/com/qa/notes/junit/ControllerAndServiceSuite.java
+/home/user/Desktop/simple-project-server/src/test/java/com/qa/notes/integration/IntegrationSuite.java
+/home/user/Desktop/simple-project-server/src/test/java/com/qa/notes/e2e/SeleniumSuite.java
+/home/user/Desktop/simple-project-server/src/test/java/com/qa/notes/integration/DeleteIT.java
+/home/user/Desktop/simple-project-server/src/test/java/com/qa/notes/e2e/homepage/HomePageDeleteTest.java
+/home/user/Desktop/simple-project-server/src/test/java/com/qa/notes/e2e/homepage/HomePagePOM.java
+/home/user/Desktop/simple-project-server/src/test/java/com/qa/notes/e2e/homepage/HomePageCreateTest.java
+/home/user/Desktop/simple-project-server/src/test/java/com/qa/notes/e2e/homepage/HomePageUpdateTest.java
+/home/user/Desktop/simple-project-server/src/test/java/com/qa/notes/integration/GetIT.java
+/home/user/Desktop/simple-project-server/src/test/java/com/qa/notes/e2e/SeleniumConst.java
+/home/user/Desktop/simple-project-server/src/test/java/com/qa/notes/integration/PostIT.java
+/home/user/Desktop/simple-project-server/src/test/java/com/qa/notes/junit/controller/NoteControllerTest.java

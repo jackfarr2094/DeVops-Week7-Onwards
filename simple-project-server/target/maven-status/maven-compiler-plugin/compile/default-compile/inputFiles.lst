@@ -1,0 +1,6 @@
+/home/user/Desktop/simple-project-server/src/main/java/com/qa/notes/Application.java
+/home/user/Desktop/simple-project-server/src/main/java/com/qa/notes/dto/NoteDto.java
+/home/user/Desktop/simple-project-server/src/main/java/com/qa/notes/persistence/model/Note.java
+/home/user/Desktop/simple-project-server/src/main/java/com/qa/notes/persistence/repository/NoteRepository.java
+/home/user/Desktop/simple-project-server/src/main/java/com/qa/notes/service/NoteService.java
+/home/user/Desktop/simple-project-server/src/main/java/com/qa/notes/controller/NoteController.java
