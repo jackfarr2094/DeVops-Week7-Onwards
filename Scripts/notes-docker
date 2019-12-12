@@ -1,0 +1,16 @@
+FROM: build the next steps on the image specified
+ARGS: arguments you pass through
+ENV: specified arguments
+RUN: Runs a command at build time (when the image is built)
+CMD: Works at container level
+COPY copies the specified file on your machine into the container, at build time
+WORKDIR: any other commands occur in the specified location
+LABEL: the name of the maintainer, the one who owns the docker container
+ENTRY POINT: 
+
+You can have multiple RUN's but only one CMD
+If you don't specify a version in the FROM then it will run the latest version it can find.
+
+Expose [PORT NUMBER]; doesn't actually do anything but is a note to remind the user what port they 
+need to open when running the application.
+

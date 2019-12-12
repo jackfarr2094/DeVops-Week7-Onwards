@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "input an array of numbers"
+declare -a arrayVar=($num)
+
+if $num % 2
+echo "fizz"
+
+if $num % 3
+echo "buzz"
+
+done

@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "input a directory name"
+read $dirName
+
+ls -n=($dirName)
