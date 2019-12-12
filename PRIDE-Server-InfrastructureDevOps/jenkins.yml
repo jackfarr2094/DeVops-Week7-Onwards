@@ -1,0 +1,26 @@
+- hosts: all
+  become: true
+  tasks:
+  - name: install java
+    apt:
+      name: openjdk-8-jdk
+      state: latest
+      update_cache: true
+  - name: jenkins repo key
+    apt_key:
+      url: "https://pkg.jenkins.io/debian/jenkins.io.key"
+      state: present
+  - name: jenkins repo
+    apt_repository:
+      repo: "deb http://pkg.jenkins.io/debian-stable binary/"
+      state: present
+  - name: install jenkins
+    apt:
+      name: jenkins
+      state: latest
+      update_cache: true
+  - name: jenkins service running
+    service:
+      name: jenkins
+      state: started
+
