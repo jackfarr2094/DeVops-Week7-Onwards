@@ -1,0 +1,6 @@
+name/christophperrins/users/controller/TokenControllerInterface.class
+name/christophperrins/users/controller/AccountControllerInterface.class
+name/christophperrins/users/exception/FeignExceptionHandling.class
+name/christophperrins/users/controller/AccountTokenController.class
+name/christophperrins/users/service/AccountServiceFeign.class
+name/christophperrins/users/AccountTokenApplication.class

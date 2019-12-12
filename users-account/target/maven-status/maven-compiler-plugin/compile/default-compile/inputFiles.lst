@@ -1,0 +1,6 @@
+/home/user/Desktop/ClassWork-etc/users-account/src/main/java/name/christophperrins/users/service/AccountService.java
+/home/user/Desktop/ClassWork-etc/users-account/src/main/java/name/christophperrins/users/persistence/repository/AccountRepository.java
+/home/user/Desktop/ClassWork-etc/users-account/src/main/java/name/christophperrins/users/UserApplication.java
+/home/user/Desktop/ClassWork-etc/users-account/src/main/java/name/christophperrins/users/persistence/domain/Account.java
+/home/user/Desktop/ClassWork-etc/users-account/src/main/java/name/christophperrins/users/service/PasswordSecurity.java
+/home/user/Desktop/ClassWork-etc/users-account/src/main/java/name/christophperrins/users/controller/AccountController.java
