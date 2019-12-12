@@ -1,0 +1,5 @@
+/home/user/Desktop/ClassWork-etc/users-token/src/main/java/name/christophperrins/users/AuthApplication.java
+/home/user/Desktop/ClassWork-etc/users-token/src/main/java/name/christophperrins/users/persistence/repository/AuthRepository.java
+/home/user/Desktop/ClassWork-etc/users-token/src/main/java/name/christophperrins/users/service/AuthService.java
+/home/user/Desktop/ClassWork-etc/users-token/src/main/java/name/christophperrins/users/controller/AuthController.java
+/home/user/Desktop/ClassWork-etc/users-token/src/main/java/name/christophperrins/users/persistence/domain/AuthToken.java

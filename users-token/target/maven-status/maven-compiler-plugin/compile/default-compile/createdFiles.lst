@@ -1,0 +1,5 @@
+name/christophperrins/users/AuthApplication.class
+name/christophperrins/users/persistence/repository/AuthRepository.class
+name/christophperrins/users/persistence/domain/AuthToken.class
+name/christophperrins/users/controller/AuthController.class
+name/christophperrins/users/service/AuthService.class
